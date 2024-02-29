@@ -4,6 +4,7 @@ metadata:
   name: cartservice
   annotations:
     github.com/project-slug: arnavrazdann/cartservice
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
